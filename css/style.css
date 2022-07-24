@@ -1,0 +1,21 @@
+/* =========
+    Fonts 
+========== */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+
+/* =========================
+  Common Styles & Utilities 
+========================= */
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Slider Section  */
+.slideTitle {
+  font-size: 3rem;
+  font-weight: 600;
+}
+.slideText {
+  font-size: 1rem;
+  font-weight: 300;
+}
